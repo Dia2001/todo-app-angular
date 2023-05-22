@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Infor
+Fix lỗi Why powershell does not run Angular commands? https://www.youtube.com/watch?v=K8CPnfbiWTc
+```
+Bước 1: Cài đặt Angular CLI (Command Line Interface)
+npm install -g @angular/cli
+```
+
+```
+Bước 2: Tạo project
+ng new my-angular-project
+```
+
+```
+Bước 3: Chạy
+ng serve
+```
+
+
