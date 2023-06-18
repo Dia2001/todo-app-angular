@@ -45,8 +45,3 @@ ng serve
 ```
 ng generate component components/layout/header
 ```
-
-<div align="center">
-  <img src="https://placekitten.com/50/50" alt="Angular" style="border: 1px solid #e36209; border-radius: 50%; width: 50px; height: 50px; display: inline-block; margin-right: 10px;">
-  <strong>Angular</strong>
-</div>
