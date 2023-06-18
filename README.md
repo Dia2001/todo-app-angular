@@ -42,5 +42,7 @@ ng new my-angular-project
 Bước 3: Chạy
 ng serve
 ```
-
+```
+ng generate component components/layout/header
+```
 
