@@ -41,6 +41,7 @@ ng new my-angular-project
 ```
 Bước 3: Chạy
 ng serve
+run root forder
 ```
 ```
 ng generate component components/layout/header
